@@ -1,6 +1,5 @@
 # Gatekeeper
 
-
 ## How is Gatekeeper different from OPA?
 
 Compared to using [OPA with its sidecar kube-mgmt](https://www.openpolicyagent.org/docs/kubernetes-admission-control.html) (aka Gatekeeper v1.0), Gatekeeper introduces the following functionality:
